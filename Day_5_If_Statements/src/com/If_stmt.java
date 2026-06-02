@@ -1,6 +1,6 @@
 package com;
 
-public class Test 
+public class If_stmt
 {
 	public static void main(String[] args) 
 	{
