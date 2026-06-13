@@ -545,14 +545,10 @@ feat(day-9): learned methods in java
 
 ➡️ Methods with Return Type
 
-1. Without Parameters & With Return Type
-
-2. With Parameters & With Return Type
-
-3. Method Overloading
-
-4. Static Methods
-
+1. TypeCasting
+   Implicit
+   Explicit
+   Arrays Intro
 ---
 
 ```text
