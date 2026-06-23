@@ -1,0 +1,4 @@
+SingleInher1
+  {
+    
+  }
