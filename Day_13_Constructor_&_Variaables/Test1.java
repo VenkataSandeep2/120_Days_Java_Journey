@@ -6,7 +6,8 @@ class Student
     String name;
     int rollNo;
 
-    Student(String name, int rollNo) {
+    Student(String name, int rollNo)     //Constructor
+    {
         this.name = name;
         this.rollNo = rollNo;
     }
