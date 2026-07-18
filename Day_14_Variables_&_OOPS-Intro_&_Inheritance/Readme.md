@@ -458,7 +458,7 @@ Variables + Methods
 | Application | Class | Object |
 |-------------|-------|---------|
 | Banking | BankAccount | Rahul Account |
-| College | Student | Sai |
+| College | Student | sandeep |
 | Hospital | Patient | Ravi |
 | Amazon | Product | Laptop |
 | Railway | Ticket | Tatkal Ticket |
@@ -558,7 +558,7 @@ After completing this repository, you will understand:
 
 # Author
 
-**Sai**
+**sandeep**
 
 Java Developer | Learning Core Java, DSA, JDBC, Spring Boot
 
