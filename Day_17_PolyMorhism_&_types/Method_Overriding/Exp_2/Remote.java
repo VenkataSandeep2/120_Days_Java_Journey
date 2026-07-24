@@ -1,14 +1,14 @@
-package scom.Polymorphism_5;
+package scom.Polymorphism_6;
 
 public class Remote 
 {
 	public void turnOn()
 	{
-		System.out.println("Turn on ");
+		System.out.println("Turn ON");
 	}
-	public void turnOff()
+	static void turnOff()
 	{
-		System.out.println("Turn Offfffff");
+		System.out.println("Turn Off");
 	}
 
 }
