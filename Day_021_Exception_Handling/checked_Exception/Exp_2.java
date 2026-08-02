@@ -1,7 +1,7 @@
 import java.io.FileReader;
 import java.io.FileNotFoundException;
 
-public class Main
+public class Exp_2
 {
     public static void main(String[] args)
     {
