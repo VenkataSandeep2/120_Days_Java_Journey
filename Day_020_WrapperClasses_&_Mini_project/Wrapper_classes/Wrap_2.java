@@ -13,9 +13,9 @@ public class Wrap_2
 		System.out.println("byte -> short value " + shortvalue);
 		
 		int intvalue = by;
-		System.out.println("byte -> int value "+ intvalue);
+		System.out.println("byte --> int value "+ intvalue);
 		long longvalue = by;
-		System.out.println("byte -> long value "+longvalue);
+		System.out.println("byte --> long value "+longvalue);
 		
 		 float floatValue = by;
 		 
