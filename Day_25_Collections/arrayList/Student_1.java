@@ -2,7 +2,7 @@ package com.arrayList;
 
 import java.util.ArrayList;
 
-public class Student {
+public class Student_1 {
 
     public static void main(String[] args)
     {
